@@ -5,6 +5,7 @@
           'Elixir.HelloWorldWeb.CoreComponents',
           'Elixir.HelloWorldWeb.Endpoint','Elixir.HelloWorldWeb.ErrorHTML',
           'Elixir.HelloWorldWeb.ErrorJSON','Elixir.HelloWorldWeb.Gettext',
+          'Elixir.HelloWorldWeb.HealthController',
           'Elixir.HelloWorldWeb.Layouts',
           'Elixir.HelloWorldWeb.PageController',
           'Elixir.HelloWorldWeb.PageHTML','Elixir.HelloWorldWeb.Router',
