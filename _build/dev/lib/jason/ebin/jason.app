@@ -9,6 +9,7 @@
                         'Elixir.Jason.Encoder.BitString',
                         'Elixir.Jason.Encoder.Date',
                         'Elixir.Jason.Encoder.DateTime',
+                        'Elixir.Jason.Encoder.Decimal',
                         'Elixir.Jason.Encoder.Float',
                         'Elixir.Jason.Encoder.Integer',
                         'Elixir.Jason.Encoder.Jason.Fragment',
@@ -21,6 +22,6 @@
                         'Elixir.Jason.OrderedObject','Elixir.Jason.Sigil']},
               {optional_applications,[decimal]},
               {applications,[kernel,stdlib,elixir,decimal]},
-              {description,"A blazing fast JSON parser and generator in pure Elixir.\n"},
+              {description,"A blazing fast JSON parser and generator in pure Elixir.\r\n"},
               {registered,[]},
               {vsn,"1.4.4"}]}.

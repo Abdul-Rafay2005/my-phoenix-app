@@ -59,7 +59,7 @@
               {applications,[kernel,stdlib,elixir,logger,xmerl,mime,jason,
                              telemetry,hackney,finch,req,mail,gen_smtp,mua,
                              cowboy,plug,plug_cowboy,bandit,multipart,ex_aws]},
-              {description,"Compose, deliver and test your emails easily in Elixir. Supports SMTP,\nSendgrid, Mandrill, Postmark, Mailgun and many more out of the box.\nPreview your emails in the browser. Test your email sending code.\n"},
+              {description,"Compose, deliver and test your emails easily in Elixir. Supports SMTP,\r\nSendgrid, Mandrill, Postmark, Mailgun and many more out of the box.\r\nPreview your emails in the browser. Test your email sending code.\r\n"},
               {registered,[]},
               {vsn,"1.18.2"},
               {mod,{'Elixir.Swoosh.Application',[]}},

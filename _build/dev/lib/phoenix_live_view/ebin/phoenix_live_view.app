@@ -60,7 +60,7 @@
          [kernel,stdlib,elixir,logger,phoenix,plug,phoenix_template,
           phoenix_html,telemetry,phoenix_view,jason,floki]},
      {description,
-         "Rich, real-time user experiences with server-rendered HTML\n"},
+         "Rich, real-time user experiences with server-rendered HTML\r\n"},
      {registered,[]},
      {vsn,"1.0.5"},
      {mod,{'Elixir.Phoenix.LiveView.Application',[]}}]}.
